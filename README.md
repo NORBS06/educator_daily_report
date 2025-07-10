@@ -14,3 +14,4 @@
 #### HOME / "Documents\Labourdonnais_College\Y2025\G10Y\log
 #### HOME / "Documents\Labourdonnais_College\Y2025\G11R\log
 #### HOME / "Documents\Labourdonnais_College\Y2025\G11Y\log
+### More classes can be added and names altered by changing the lines 16-23 of the code.
